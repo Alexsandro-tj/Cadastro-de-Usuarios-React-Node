@@ -6,10 +6,7 @@
 
 }
 
-h1 {
-  color: white;
-  font-size: 32px;
-}
+
 
 form {
   display: flex;
@@ -33,6 +30,7 @@ form {
 
   & button:hover {
     opacity: 0.8;
+    
   }
 
   & input {
@@ -45,6 +43,10 @@ form {
     padding-left: 10px;
     outline: none;
   }
+  & h1 {
+  color: white;
+  font-size: 32px;
+}
 
 }
 .card {
