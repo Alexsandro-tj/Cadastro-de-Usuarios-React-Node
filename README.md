@@ -1,16 +1,31 @@
-# React + Vite
+# Nome do Projeto
+Sitema de Cadastros de Usuários
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 Preview
 
-Currently, two official plugins are available:
+<img src="./src/assets/cad-users.png" alt="preview-projet" width="800" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias
 
-## React Compiler
+1 - Vite + React
+2 - Axios (Conxão com a API)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Funcionalidades
+1 - Criação de usuário
+2 - Lista usuário do banco de dados
+3 - Deleção de usuários
 
-## Expanding the ESLint configuration
+## ⚙️ Como Executar
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1- O site foi hospedado no link: https://cadastro-de-usuarios-react-node.vercel.app/
+
+## 🎯 Aprendizados
+
+Neste projeto aprendi os conhecimentos, e coloquei em prática o consumo de APIS, estruturação de Rotas no padrão RESTful.
+Bem como útlizar o react para construção do front-end
+
+## 👨‍💻 Autor
+
+Nome: Alex Sandro Santos
+Email: alexsandrotj94@gmail.com
+LinkedIn: https://linkedin.com/in/alex-sandro-do-santos
